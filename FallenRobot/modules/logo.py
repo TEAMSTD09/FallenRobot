@@ -297,7 +297,7 @@ async def lego(event):
         await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @{SUPPORT_CHAT}")
 
 
-__mod_name__ = "Lᴏɢᴏ​"
+__mod_name__ = "𝙻𝙾𝙶𝙾​"
 
 __help__ = """
 I can create some beautiful and attractive logo for your profile pics.
