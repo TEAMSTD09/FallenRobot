@@ -121,7 +121,7 @@ async def close_send_photo(_, CallbackQuery):
 
 
 __help__ = """
-*ғᴏʀ ʀᴇᴩᴏʀᴛɪɴɢ ᴀ ʙᴜɢ ɪɴ [『𝐁𝐅𝐅』⟁⃤≛𝐑𝐎𝐁𝐎𝐓🕊️⃝═](http//t.me/Bestfriendrobot*
+*ғᴏʀ ʀᴇᴩᴏʀᴛɪɴɢ ᴀ ʙᴜɢ ɪɴ [『𝐁𝐅𝐅』⟁⃤≛𝐑𝐎𝐁𝐎𝐓🕊️⃝═](http://t.me/Bestfriendrobot*
  ❍ /bug *:* ᴛᴏ ʀᴇᴩᴏʀᴛ ᴀ ʙᴜɢ ᴀᴛ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ.
 """
 __mod_name__ = "𝙱𝚄𝙶"
