@@ -93,4 +93,4 @@ I can upload files to Telegraph
  ❍ /tgt :Get Telegraph Link of Replied Text
 """
 
-__mod_name__ = "T-Gʀᴀᴘʜ"
+__mod_name__ = "𝚃-𝙶𝚁𝙰𝙿𝙷"
