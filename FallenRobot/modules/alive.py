@@ -33,4 +33,4 @@ async def awake(event):
     await tbot.send_file(event.chat_id, ran, caption=TEXT, buttons=BUTTON)
 
 
-__mod_name__ = "Aʟɪᴠᴇ"
+__mod_name__ = "𝙰𝙻𝙸𝚅𝙴"
