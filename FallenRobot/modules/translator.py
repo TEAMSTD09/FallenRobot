@@ -15,7 +15,7 @@ def totranslate(update: Update, context: CallbackContext) -> None:
             "Reply to messages or write messages from other languages ​​for translating into the intended language\n\n"
             "Example: `/tr en-hi` to translate from English to Hindi\n"
             "Or use: `/tr en` for automatic detection and translating it into english.\n"
-            "Click here to see [List of available Language Codes](https://t.me/DevilsHeavenMF/148391).",
+            "Click here to see [List of available Language Codes](https://t.me/BestFriendsForeverGrp/1086).",
             parse_mode="markdown",
             disable_web_page_preview=True,
         )
@@ -58,7 +58,7 @@ ml,mn,mr,ms,mt,my,ne,nl,no,ny,pa,pl,ps,pt,ro,ru,sd,si,sk,sl,
 sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
 vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
 """
-__mod_name__ = "Tʀᴀɴsʟᴀᴛᴏʀ"
+__mod_name__ = "𝚃𝚁𝙰𝙽𝚂𝙻𝙰𝚃𝙾𝚁"
 
 TRANSLATE_HANDLER = DisableAbleCommandHandler(["tr", "tl"], totranslate)
 
