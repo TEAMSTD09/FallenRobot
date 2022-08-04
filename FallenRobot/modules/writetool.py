@@ -64,7 +64,7 @@ Successfully Written Text 💘
         )
 
 
-__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ"
+__mod_name__ = "𝚆𝚛𝚒𝚝𝚎-𝚃𝚘𝚘𝚕"
 
 __help__ = """
 
